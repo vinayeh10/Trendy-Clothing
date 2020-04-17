@@ -12,7 +12,7 @@ export class Directory extends React.Component {
                     title: 'Hats',
                     imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
                     id: 1,
-                    linkUrl: 'shop/hats'
+                    linkUrl: 'hats'
                 },
                 {
                     title: 'Jackets',
